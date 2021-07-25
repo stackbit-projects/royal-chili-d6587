@@ -158,7 +158,7 @@ sections:
         is_required: false
         type: form_field
     hide_labels: false
-    submit_label: lorem-ipsum
+    submit_label: Name
     type: form_section
 layout: advanced
 seo:
