@@ -127,7 +127,7 @@ sections:
     submit_label: lorem-ipsum
     type: form_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: bla form
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
