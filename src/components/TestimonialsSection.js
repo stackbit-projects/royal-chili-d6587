@@ -15,6 +15,8 @@ export default class TestimonialsSection extends React.Component {
             <blockquote className="testimonial">
                 <p className="testimonial__content">{content}</p>
                 <footer className="testimonial__footer">
+                boooooo
+            
                     {avatar && <img className="testimonial__avatar" src={withPrefix(avatar)} alt={avatarAlt} />}
                     <div className="testimonial__details">
                         <div className="testimonial__author">
