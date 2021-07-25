@@ -143,7 +143,7 @@ sections:
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields: []
-    hide_labels: false
+    hide_labels: true
     submit_label: lorem-ipsum
     type: form_section
 layout: advanced
